@@ -1,5 +1,5 @@
 # 📊 Interactive Dashboard
-###### This project is an Excel-based interactive dashboard that visualizes sales data using pivot tables, slicers, charts, and formula-driven summaries. It is designed to practice and showcase proficiency in building business intelligence dashboards within Microsoft Excel.
+#### This project is an Excel-based interactive dashboard that visualizes sales data using pivot tables, slicers, charts, and formula-driven summaries. It is designed to practice and showcase proficiency in building business intelligence dashboards within Microsoft Excel.
 
 # 📁 Project Overview
 ## The workbook contains:
@@ -20,3 +20,18 @@
 - Slicers and Filters
 - Dashboard Design & Layout
 - Data Cleaning & Structuring
+
+# 📌 Author
+- Faris Raihan
+- Excel | Dashboards | Data Visualization
+  
+# 📸 Dashboard Screenshot
+<img width="1463" height="771" alt="Snapshot of  Dashboard" src="https://github.com/user-attachments/assets/c11fd173-3b34-4237-abe3-9576852a9709" />
+
+## 🔗 Portfolio & Contact
+- 💼 [LinkedIn Profile](https://www.linkedin.com/in/faris-raihan-70b916329/)
+- 📧 [Email:](farisraihan777@gmail.com)
+- 🌐 [More Projects on GitHub](https://github.com/Farisraihan777)
+
+
+## 📬 Feel free to fork this repo and use it for learning or portfolio building.
