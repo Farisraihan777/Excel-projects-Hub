@@ -26,7 +26,8 @@
 - Excel | Dashboards | Data Visualization
   
 # 📸 Dashboard Screenshot
-<img width="1463" height="771" alt="Snapshot of  Dashboard" src="https://github.com/user-attachments/assets/c11fd173-3b34-4237-abe3-9576852a9709" />
+<img width="1470" height="772" alt="Screenshot 2025-08-07 012549" src="https://github.com/user-attachments/assets/5424e2e6-a9e5-40b5-914f-9882c127e91f" />
+
 
 ## 🔗 Portfolio & Contact
 - 💼 [LinkedIn Profile](https://www.linkedin.com/in/faris-raihan-70b916329/)
