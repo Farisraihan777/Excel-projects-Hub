@@ -22,8 +22,8 @@
 - Data Cleaning & Structuring
 
 ## 🚀 Ready to Explore? Download the Excel File!
-- Click below to get instant access to the interactive dashboard workbook.
-- [Click here to download the Excel Dashboard (.xlsx)](https://github.com/your-username/your-repo-name/raw/main/Interactive%20Dashboard.xlsx)
+Click below to get instant access to the interactive dashboard workbook.
+[Click here to download the Excel Dashboard (.xlsx)](https://github.com/your-username/your-repo-name/raw/main/Interactive%20Dashboard.xlsx)
 
 # 📌 Author
 - Faris Raihan
